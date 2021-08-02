@@ -1,0 +1,30 @@
+Topic 1
+1. A whole lot of networks
+2. A system of web pages to be accessed threw the internet
+3. a) a connection between client's and servers
+    b)servers are the information side of networks
+    c)routers are the conductor for the information requested.
+    d)information broken down to be easier to handle 
+4. If a road map is the internet, brochures are the web
+5. see drawing
+Topic 1
+1. A whole lot of networks
+2. A system of web pages to be accessed threw the internet
+3. a) a connection between client's and servers
+    b)servers are the information side of networks
+    c)routers are the conductor for the information requested.
+    d)information broken down to be easier to handle 
+4. If a road map is the internet, brochures are the web
+5. see drawing
+
+Topic 2
+1. An IP address is a unique address that identifies a device on the internet or a local network.
+2. 172.67.9.59
+3. provides security by protecting Internet properties from malicious activity
+4. A DNS links togeather the IP adress and the domain name
+
+Topic 3
+
+1. see webWorksLab.
+
+Topic 4
